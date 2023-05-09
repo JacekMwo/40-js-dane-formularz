@@ -1,0 +1,25 @@
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2px;
+}
+
+button[type="submit"] {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10%;
+    margin-top: 2%;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    display: block;
+    margin-left: 39%;
+    margin-top: 0 auto;
+}
